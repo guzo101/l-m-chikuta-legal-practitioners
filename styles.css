@@ -595,10 +595,9 @@ p {
 
 .office-tour-video {
   width: 100%;
-  min-height: 420px;
+  max-height: 520px;
   display: block;
   background: #000;
-  border: 0;
 }
 
 .video-note {
